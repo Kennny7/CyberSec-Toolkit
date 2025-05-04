@@ -1,0 +1,30 @@
+# Paranoid mode exclusions
+**/__pycache__
+*.log
+*.key
+*.pem
+*.env
+*.db
+*.dump
+
+# System artifacts
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# Virtual environments
+venv/
+ENV/
+
+# Security-sensitive files
+/config/master.hash
+/utilities/.secret
+/modules/classified/
+/logs/*.audit
+
+# Binary payloads
+*.bin
+*.exe
+*.dll
+
