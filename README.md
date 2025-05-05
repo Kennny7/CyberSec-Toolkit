@@ -1,7 +1,7 @@
 # [+] CyberSec Toolkit
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-GPL--3.0-red)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 A modular cybersecurity framework for network analysis and penetration testing with military-grade encryption and advanced monitoring capabilities.
 
