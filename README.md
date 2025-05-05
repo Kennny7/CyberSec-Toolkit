@@ -1,4 +1,3 @@
-```markdown
 # [+] CyberSec Toolkit
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -107,5 +106,4 @@ Paranoid development protocol:
 ## [+] License
 
 GNU General Public License v3.0 - See [LICENSE](LICENSE) for full text
-```
 
